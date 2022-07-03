@@ -1,0 +1,138 @@
+.bg{
+  background-image: url(bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+
+
+}
+
+
+#title {
+
+  color:#fff;
+  padding: 2% 7% 15%;
+
+  text-align: center;
+}
+.container-fluid{
+  text-align: center;
+  font-family: "Montserrat-black";
+  color: #fff;
+}
+h1{
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  color: #fff;
+padding-bottom: 30px;
+}
+.container-fluid p{
+text-align: center;
+letter-spacing: 1px;
+padding: 2% 5% 5% 2%;
+
+
+}
+
+#ways{
+
+  color:black;
+  padding: 2% 5% 5% 2%;
+  text-align: center;
+}
+h3{
+  font-family: "Monsterrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align:center;
+}
+
+.first{
+  padding: 2% 5% 5% 2%;
+  margin-left: 30%;
+  text-align: left;
+  width: 750px;
+  box-sizing: border-box;
+  color: #fff;
+  border-radius: 6px;
+  text-align: justify;
+  background: rgb(82,136,217,.2);
+  margin-bottom: 200px;
+
+
+}
+.second{
+  padding: 2% 5% 5% 2%;
+  margin-right: 30%;
+  text-align: left;
+  width: 750px;
+  box-sizing: border-box;
+  color: #fff;
+  border-radius: 6px;
+  text-align: justify;
+  background: rgb(82,136,217,.2);
+margin-bottom: 200px;
+}
+.third{
+  padding: 2% 5% 5% 2%;
+  margin-left: 30%;
+  text-align: left;
+  width: 750px;
+  box-sizing: border-box;
+  color: #fff;
+  border-radius: 6px;
+  text-align: justify;
+  background: rgb(82,136,217,.2);
+margin-bottom: 200px;
+
+}
+.fourth{
+  padding: 2% 5% 5% 2%;
+  margin-right: 30%;
+  text-align: left;
+  width: 950px;
+  box-sizing: border-box;
+  color: #fff;
+  border-radius: 6px;
+  text-align: justify;
+  background: rgb(82,136,217,.2);
+margin-bottom: 200px;
+}
+.fifth{
+  padding: 2% 5% 5% 2%;
+  margin-left: 30%;
+  text-align: left;
+  width: 750px;
+  box-sizing: border-box;
+  color: #fff;
+  border-radius: 6px;
+  text-align: justify;
+  background: rgb(82,136,217,.2);
+margin-bottom: 70px;
+
+}
+
+#footer{
+  padding: 2px 3px;
+  text-align: center;
+box-sizing: border-box;
+  border-radius: 6px;
+  letter-spacing: 20px;
+
+    background: rgb(82,136,217,.5);
+
+  color: black;
+
+}
+#footer p{
+  text-align: center;
+  padding-top: 2px;
+  letter-spacing: 5px;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.download-button:hover{
+  color: black;
+}
